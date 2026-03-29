@@ -10,8 +10,8 @@ This repository houses my solutions and lab exercises from the [freeCodeCamp](ht
 
 ## 🛠️ Setup & Usage
 
-I am developing these locally on Windows 11 using Git for version control. To run any of the snippets:
+I am developing these locally on my Windows machine using Git for version control. To run any of the snippets:
 
-1. Clone the repo: `git clone <your-repo-url>`
+1. Clone the repo: `git clone https://github.com/warlockjaydee/fcc_javascript.git`
 2. Open the folder in your terminal.
 3. Run the file: `node filename.js`
